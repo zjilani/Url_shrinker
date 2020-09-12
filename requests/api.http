@@ -1,0 +1,6 @@
+POST http://localhost:3000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl" : "https://www.amazon.in/Godrej-Frost-Free-Refrigerator-EON-255B/dp/B083SQWR5J/ref=sr_1_1_sspa?dchild=1&pf_rd_p=2890ff01-c470-4516-a2eb-887bd7e4c219&pf_rd_r=02C4M7VKJB200C0534GH&qid=1593286056&refinements=p_85%3A10440599031&rps=1&s=kitchen&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSzkzVzBQTk1PVzNNJmVuY3J5cHRlZElkPUEwNzUyMTE3M1ZIUUpKOEY5VlpIRSZlbmNyeXB0ZWRBZElkPUEwMDc5MTE5M01STFRCVVJVTkRHMSZ3aWRnZXROYW1lPXNwX2F0Zl9icm93c2UmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl"
+}
